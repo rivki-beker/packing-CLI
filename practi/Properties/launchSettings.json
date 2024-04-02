@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "practi": {
+      "commandName": "Project",
+      "commandLineArgs": "practi bundle --language cs --output YourOutputFile --note --sort alphabetic --remove-empty-lines --author Author\r\n"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
